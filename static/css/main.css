@@ -19,7 +19,7 @@
     padding: 10rem 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    height: 40rem;
 }
 
 .top-section h2 {
@@ -99,8 +99,8 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(200px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    height: max(130px,min(200px,calc(100vw/6)));
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 @media screen and (max-width: 991px) {
