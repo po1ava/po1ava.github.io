@@ -1,16 +1,14 @@
 
+[![po1ava](https://img.shields.io/badge/po1ava-github-blue?logo=github)](https://github.com/po1ava)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-以问题为导向，以兴趣为驱动，坚信互联网是最好的课堂。He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+以问题为导向，以兴趣为驱动，坚信互联网是最好的课堂。目前在东南大学攻读建筑技术与科学硕士学位，致力于建筑数据挖掘与分析。
 
 #### Email
-sli[at]cumt.edu.cn
+727313890@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2025-2028, 东南大学, 建筑技术与科学, 硕士
+2020-2025, 东南大学, 建筑学, 学士
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+机器学习, 图像识别, 数据挖掘, 绿色建筑
