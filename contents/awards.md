@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+- 2022-2023年东南大学至善学子奖
 
-- First-prize Scholarship of CUMT, 2024.
+- 2023年中国数实融合设计创新赛省级一等奖、全国三等奖
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 2024年东南大学文化素质教育实践优秀奖
