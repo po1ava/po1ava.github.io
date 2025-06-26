@@ -1,4 +1,3 @@
-<br>
 - Wang, H., Zhao, L., Zhang, H., Qian, Y., Xiang, Y., Luo, Z., & <strong>Wang, Z.</strong> (2023). Carbon emission analysis of precast concrete building Construction: A study on component transportation phase using Artificial Neural Network. <strong>Energy and Buildings.</strong> [[Paper]](https://doi.org/10.1016/j.enbuild.2023.113708)
 
 - Han, Y., Wang, Y., Zhao, L., Li, T., Yang, Z., <strong>Wang, Z.</strong>, & Wang, H. (2024). BIM-Based Analysis and Strategies to Reduce Carbon Emissions of Underground Construction in Public Buildings: A Case on Xi'an Shaanxi, China. <strong>Buildings.</strong> [[Paper]](https://doi.org/10.3390/buildings14072134)
