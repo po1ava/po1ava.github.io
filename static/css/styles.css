@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #212cc0;
+  --bs-link-color: #2937f0;
   --bs-link-hover-color: #212cc0;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -218,6 +218,10 @@ blockquote {
 b,
 strong {
   font-weight: 500;
+}
+
+strong2 {
+  font-weight: 600;
 }
 
 small, .small {
@@ -6705,7 +6709,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #212cc0 !important;
+  color: #2937f0 !important;
 }
 .link-primary:hover, .link-primary:focus {
   color: #212cc0 !important;
