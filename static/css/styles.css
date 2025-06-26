@@ -10855,8 +10855,8 @@ html {
 
 aside,
 section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .app-badge {
@@ -10885,7 +10885,7 @@ section {
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
 
-   color: var(--bs-yellow)
+   color: var(--bs-blue)
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #2937f0;
