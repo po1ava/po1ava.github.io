@@ -2,8 +2,6 @@
 
 
 
-
-
 \- 使用BPNN、RF、XGBoost等机器学习模型进行建筑碳排放数据预测、遮阳效果模拟预测等工作，完整负责环境部署、数据预处理、模型训练与评估、参数优化等工作流程。 \[\[Repository]](https://github.com/po1ava/BPNN-training-and-plotting)
 
 
